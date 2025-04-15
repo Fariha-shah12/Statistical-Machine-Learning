@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ## Author
 
 **Fariha Shah**  
-[LinkedIn](http://linkedin.com/fariha-shah-2ba015149)  
+[LinkedIn](https://www.linkedin.com/in/shahfariha/)  
 _Data Engineer | ML Enthusiast | Full Stack Developer_
 
 ---
