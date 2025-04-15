@@ -109,5 +109,4 @@ _Data Engineer | ML Enthusiast | Full Stack Developer_
 
 - Apply SMOTE or other class balancing techniques.
 - Test neural networks and ensemble stacking.
-- Deploy models with interactive dashboards (e.g., Streamlit).
 
