@@ -1,7 +1,7 @@
 
 #  Youth Substance Use Prediction with Machine Learning
 
-This project leverages data science and machine learning techniques to explore and predict patterns of youth substance use (Marijuana and Alcohol). It includes binary classification, multi-class classification, and regression modeling using scikit-learn.
+This Practical Worksheet leverages data science and machine learning techniques to explore and predict patterns of youth substance use (Marijuana and Alcohol). It includes binary classification, multi-class classification, and regression modeling using scikit-learn.
 
 ---
 
