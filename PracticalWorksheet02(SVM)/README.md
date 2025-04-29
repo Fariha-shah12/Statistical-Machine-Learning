@@ -36,8 +36,6 @@ We evaluated the performance of **Linear**, **Polynomial**, and **RBF kernel SVM
   - Accuracy
   - Precision, Recall, F1-Score
   - Confusion Matrix
-  - ROC Curve
-
 ---
 
 ## Results
