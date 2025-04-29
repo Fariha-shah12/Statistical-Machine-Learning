@@ -58,8 +58,10 @@ We evaluated the performance of **Linear**, **Polynomial**, and **RBF kernel SVM
 
 ## Project Structure
 ```
+nhis_2022.csv                  # Dataset from National Health Interview Survey (NHIS)
 PracticalWorksheet02.ipynb      # Main Jupyter Notebook with code, models, and visualizations
-README.md                       # Project description (this file)
+README.md                       # Project description
+Poster_Presentation_By_Fariha.pptx # Poster With summarise results description of Practical Worksheet
 ```
 
 ---
@@ -75,7 +77,7 @@ README.md                       # Project description (this file)
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-svm-prediction.git
+   git clone https://github.com/Fariha-shah12/DATA-5322-01-25SQ-Statistical-Machine-Learning-2.git
    ```
 2. Install required libraries:
    ```bash
